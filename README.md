@@ -1,7 +1,7 @@
-# butterfly
+# Butterfly!
  A task manager for command-line worshippers!! 
 
-## Techonology choices
+## Techonology choices:
 - Go - Easy to build cross platform application.
 - SQLite - Easy to substitute it with SQL once we chose to sync across devices.
 - Goreleaser 
@@ -44,3 +44,4 @@ todo export tasks.json
 ```
 
 - Support multiple profile - work/personal.
+- autocompletion with cobra-cli
